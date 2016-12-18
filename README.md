@@ -23,4 +23,5 @@ http://www.say-hello.community
 - ... to be continued
 
 ## Contribute
-Contributing to this project is very easy, just check the [say-hello issues](https://github.com/toh82/say-hello/issues) here on Github. And if you have an idea what would help to save the world, let us know about.
+Contributing to this project is very easy, just check the [say-hello issues](https://github.com/toh82/say-hello/issues) here on Github and let us know that you want to join.  
+If you have an idea what would help to save the world, let us know about it.
