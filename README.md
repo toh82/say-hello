@@ -5,7 +5,12 @@ Say Hello is a project to encourage people on conferences to talk to each other.
 http://www.say-hello.community
 
 ##### Supporter:
-[Firegento e. V. (https://firegento.com/)](https://firegento.com/)  
+- [Firegento e. V. (https://firegento.com/)](https://firegento.com/)  
+
+##### Team:
+- [Sonja Riesterer](https://github.com/sriesterer)
+- [Fabian Blechschmidt](https://github.com/Schrank)
+- [Tobias Hartmann](https://github.com/toh82)
 
 ## How we roll
 - Stickers for laptops etc. which shows that you're open for others to say 'hello'
